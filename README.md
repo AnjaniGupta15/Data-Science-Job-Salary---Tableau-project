@@ -109,16 +109,16 @@ Data-Science-Job-Salary-Tableau-Project/
 ├── ds_salaries.xlsx
 └── README.md
 
-🚀 Project Outcome
+## 🚀 Project Outcome
 
 This project helped in understanding job salary data and presenting it through
 an interactive Tableau dashboard.
 
-It demonstrates skills in Excel, Tableau, Data Analysis and Data
-Visualization.
+It demonstrates skills in **Excel, Tableau, Data Analysis and Data Visualization.**
 
 
-
-👩‍💻 Author
-Anjani Gupta
+## 👩‍💻 Author
+**Anjani Gupta**
 Data Analyst | Data Science
+
+
