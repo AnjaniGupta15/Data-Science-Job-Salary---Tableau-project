@@ -103,11 +103,15 @@ location or job role.
 ## 📁 Project Files
 
 
+```text
 Data-Science-Job-Salary-Tableau-Project/
 │
 ├── Data Science Job Salary - Tableau Project.twbx
 ├── ds_salaries.xlsx
+├── Tableau_Public_Dashboard Link
 └── README.md
+```
+
 
 ## 🚀 Project Outcome
 
